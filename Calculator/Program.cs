@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using Calculator;
+
+var menu = new Menu();
+menu.ShowMenu();
