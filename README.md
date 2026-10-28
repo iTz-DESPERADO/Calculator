@@ -116,7 +116,7 @@ When an invalid calculation is attempted, a clear error message is displayed ins
 
 ## Author
 
-**Your Name**  
+**Gamal Khaled Mohamed**  
 GitHub: [@iTz-DESPERADO](https://github.com/iTz-DESPERADO)
 
 ## License
